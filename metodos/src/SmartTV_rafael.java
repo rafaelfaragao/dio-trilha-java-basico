@@ -1,9 +1,9 @@
-public class SmartTV {
+public class SmartTV_rafael {
     boolean ligada = false;
     int canal = 1;
     int volume = 1;
 
-    public SmartTV () {
+    public SmartTV_rafael () {
 
     }
     

@@ -38,7 +38,7 @@ public class Metodos {
         //ou
         public void gravar(Cliente cliente){}*/
 
-        SmartTV samsung = new SmartTV();
+        SmartTV_rafael samsung = new SmartTV_rafael();
 
         samsung.ligarDesligar();
         samsung.aumentarDiminuirVolume(2);
