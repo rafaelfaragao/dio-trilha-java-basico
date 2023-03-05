@@ -9,7 +9,6 @@ public class ControleDeFluxo {
         ifSemFlecha();
 
         switchFerias();
-
     }
 
     private static void ifFlecha(){
